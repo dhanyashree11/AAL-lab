@@ -35,3 +35,20 @@ void main(){
 		printf("%d",a[i]);
 	}
 }
+
+OUTPUT:
+Enter size of array:5
+
+Enter element:9
+
+Enter element:11
+
+Enter element:5
+
+Enter element:3
+
+Enter element:1
+
+Sorted array
+1	3	5	9	11	
+
