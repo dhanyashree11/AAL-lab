@@ -53,3 +53,18 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter the value of N (max 20): 4
+
+Solution:
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Solution:
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
