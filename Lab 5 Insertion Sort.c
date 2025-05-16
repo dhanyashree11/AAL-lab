@@ -30,3 +30,6 @@ int main()
 
     return 0;
 }
+
+OUTPUT:
+5 6 11 12 13 
