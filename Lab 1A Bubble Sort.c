@@ -24,3 +24,6 @@ int main() {
         printf("%d ", arr[i]);
     return 0;
 }
+
+OUTPUT:
+1 3 5 6 
