@@ -34,11 +34,6 @@ void find_shortest_path(int dist[MAX_CITIES][MAX_CITIES], int path[], int visite
         }
     }
 }
-
-OUTPUT:
-The shortest path is: 0 1 3 4 2 
-The minimum distance is: 70
-
 int main() {
     int dist[MAX_CITIES][MAX_CITIES] = {
         {0, 10, 15, 20, 25},
@@ -67,3 +62,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+The shortest path is: 0 1 3 4 2 
+The minimum distance is: 70
